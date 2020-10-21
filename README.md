@@ -14,7 +14,7 @@
  
  #7: There should be an a element with a corresponding class="tribute-link", which links to an outside site that contains additional information about the subject of the tribute page.
 
- #8: Use semantic and HTML and the box-model correctly.
+ #8: Try to use semantic html elements.
  
  #9: Be creative and make it your own!
  
